@@ -1,0 +1,46 @@
+# This model is based in part on geometry and textures by "Willi Hames"
+# The original mesh and textures are available from here for free:
+# http://www.scifi3d.com/details.asp?intGenreID=10&intCatID=17&key=85
+#
+# The original mesh required a lot of cleanup and was very high-poly for game usage
+# so had to be simplified and in many cases outright deleted to get it down to budget.
+# The upper and lower desking were recreated, polygon winding issues resolved and re-UV'd.
+#
+# New textures and materials were made by me and new geometry for the 4 lifts.
+
+material rim-material
+diffuse 1.0 1.0 1.0
+specular 0.5 0.5 0.5
+tex_diff Steelplt.dds
+
+material column-material
+diffuse 1.0 1.0 1.0
+specular 0.5 0.5 0.5
+tex_diff LiftColumn.dds
+tex_glow LiftColumn_illum.dds
+
+material lamp_glow-material
+diffuse 1.0 1.0 1.0
+specular 0.5 0.5 0.5
+tex_diff LiftColumn.dds
+tex_glow LiftColumn_illum.dds
+
+material pad-material
+diffuse 1.0 1.0 1.0
+specular 0.5 0.5 0.5
+tex_diff c_metall.dds
+
+material m4plat_lift_column
+diffuse 1.0 1.0 1.0
+specular 0.5 0.5 0.5
+tex_diff LiftColumn.dds
+tex_glow LiftColumn_illum.dds
+
+lod 300
+mesh landPad6_mesh_lores.DAE
+
+lod 2000
+mesh landPad6_docking.DAE
+mesh landPad6_mesh.DAE
+
+collision landPad6_collision.DAE

@@ -1,0 +1,326 @@
+{
+   "ASSASSINATION" : {
+      "description" : "",
+      "message" : "Asasinare"
+   },
+   "COULD_YOU_REPEAT_THE_ORIGINAL_REQUEST" : {
+      "description" : "",
+      "message" : "Puteți repeta solicitarea inițială?"
+   },
+   "DENY_0" : {
+      "description" : "",
+      "message" : "I'm sorry, but I don't trust you."
+   },
+   "DENY_1" : {
+      "description" : "",
+      "message" : "Come back when you have some qualifications."
+   },
+   "DENY_2" : {
+      "description" : "",
+      "message" : "I don't think you're the one I'm looking for."
+   },
+   "DENY_3" : {
+      "description" : "",
+      "message" : "You don't look like someone capable of doing what needs to be done."
+   },
+   "DENY_4" : {
+      "description" : "",
+      "message" : "You are clearly not the one for this job."
+   },
+   "DENY_5" : {
+      "description" : "",
+      "message" : "You seem much too inexperienced to handle a contract of this importance."
+   },
+   "DENY_6" : {
+      "description" : "",
+      "message" : "I have never heard of you. I need someone experienced for this contract."
+   },
+   "DENY_7" : {
+      "description" : "",
+      "message" : "I'm not willing to risk this contract by giving it to someone as inexperienced as you."
+   },
+   "DISTANCE" : {
+      "description" : "",
+      "message" : "Distanța:"
+   },
+   "EXCELLENT" : {
+      "description" : "",
+      "message" : "Excelent."
+   },
+   "FLAVOUR_0_ADTEXT" : {
+      "description" : "",
+      "message" : "WANTED: Removal of {target} from the {system} system."
+   },
+   "FLAVOUR_0_FAILUREMSG" : {
+      "description" : "",
+      "message" : "Sunt foarte nemulțumit să aflu că {target} e încă în viață. Bănuiesc că e clar că nu primiți nici un ban."
+   },
+   "FLAVOUR_0_FAILUREMSG2" : {
+      "description" : "",
+      "message" : "Înlăturarea țintei {target} nu a fost făcută de dvs. Nu primiți nimic de data asta."
+   },
+   "FLAVOUR_0_INTROTEXT" : {
+      "description" : "",
+      "message" : "Hi, I'm {name}. I'll pay you {cash} to get rid of {target}."
+   },
+   "FLAVOUR_0_SUCCESSMSG" : {
+      "description" : "",
+      "message" : "News of {target}'s long vacation gratefully received. Well done, I have initiated your full payment."
+   },
+   "FLAVOUR_1_ADTEXT" : {
+      "description" : "",
+      "message" : "CAUT: Cineva care sa omoare pe {target} din sistemul {system}."
+   },
+   "FLAVOUR_1_FAILUREMSG" : {
+      "description" : "",
+      "message" : "I hear that {target} is in good health. This pains me."
+   },
+   "FLAVOUR_1_FAILUREMSG2" : {
+      "description" : "",
+      "message" : "{target}'s demise was not caused by you, so do not ask for payment."
+   },
+   "FLAVOUR_1_INTROTEXT" : {
+      "description" : "",
+      "message" : "I need {target} taken out of the picture. I'll pay you {cash} to do this."
+   },
+   "FLAVOUR_1_SUCCESSMSG" : {
+      "description" : "",
+      "message" : "Sunt foarte trist sa aflu de decesul persoanei {target}. Ați fost plătit integral."
+   },
+   "FLAVOUR_2_ADTEXT" : {
+      "description" : "",
+      "message" : "REMOVAL: {target} is no longer wanted in the {system} system."
+   },
+   "FLAVOUR_2_FAILUREMSG" : {
+      "description" : "",
+      "message" : "It is most regrettable that {target} is still live and well. You will receive no payment as you did not complete your contract."
+   },
+   "FLAVOUR_2_FAILUREMSG2" : {
+      "description" : "",
+      "message" : "Contractul a fost îndeplinit de altcineva. Fiți mai rapid data viitoare!"
+   },
+   "FLAVOUR_2_INTROTEXT" : {
+      "description" : "",
+      "message" : "I am {name}, and I will pay you {cash} to terminate {target}."
+   },
+   "FLAVOUR_2_SUCCESSMSG" : {
+      "description" : "",
+      "message" : "You have been paid in full for the completion of that important contract."
+   },
+   "FLAVOUR_3_ADTEXT" : {
+      "description" : "",
+      "message" : "TERMINATION: Someone to eliminate {target}."
+   },
+   "FLAVOUR_3_FAILUREMSG" : {
+      "description" : "",
+      "message" : "You will pay for not eliminating {target}!"
+   },
+   "FLAVOUR_3_FAILUREMSG2" : {
+      "description" : "",
+      "message" : "Are you asking money for job done by someone else? Get lost."
+   },
+   "FLAVOUR_3_INTROTEXT" : {
+      "description" : "",
+      "message" : "The {target} must be reduced to space dust. I'll award you {cash} to do this."
+   },
+   "FLAVOUR_3_SUCCESSMSG" : {
+      "description" : "",
+      "message" : "Ținta {target} e moartă. Poftiți recompensa."
+   },
+   "FLAVOUR_4_ADTEXT" : {
+      "description" : "",
+      "message" : "RETIREMENT: Someone to retire {target}."
+   },
+   "FLAVOUR_4_FAILUREMSG" : {
+      "description" : "",
+      "message" : "{target} is still breathing and I'm not giving money to you."
+   },
+   "FLAVOUR_4_FAILUREMSG2" : {
+      "description" : "",
+      "message" : "Eliminarea țintei {target} a fost facută de altcineva."
+   },
+   "FLAVOUR_4_INTROTEXT" : {
+      "description" : "",
+      "message" : "For {cash} we wish to encourage {target} to stop work permanently."
+   },
+   "FLAVOUR_4_SUCCESSMSG" : {
+      "description" : "",
+      "message" : "News of {target}'s retirement delightfully obtained. Here is your money."
+   },
+   "FLAVOUR_5_ADTEXT" : {
+      "description" : "",
+      "message" : "BIOGRAFIE: Niște admiratori vor ținta {target} moartă."
+   },
+   "FLAVOUR_5_FAILUREMSG" : {
+      "description" : "",
+      "message" : "We found out that {target} is nonetheless operative. This saddens us."
+   },
+   "FLAVOUR_5_FAILUREMSG2" : {
+      "description" : "",
+      "message" : "{target} was neutralized by someone else."
+   },
+   "FLAVOUR_5_INTROTEXT" : {
+      "description" : "",
+      "message" : "We wish {target} to have a fitting career end in the {system} system for {cash}."
+   },
+   "FLAVOUR_5_SUCCESSMSG" : {
+      "description" : "",
+      "message" : "Mesajul că ținta {target} și-a terminat cariera a fost recepționat cu bucurie. Poftiți cei {cash} datorați."
+   },
+   "HOW_SOON_MUST_IT_BE_DONE" : {
+      "description" : "",
+      "message" : "Cât de curând trebuie s-o fac?"
+   },
+   "HOW_WILL_I_BE_PAID" : {
+      "description" : "",
+      "message" : "Cum voi fi plătit?"
+   },
+   "IT_MUST_BE_DONE_AFTER" : {
+      "description" : "",
+      "message" : "Trebuie s-o faci după ce pleacă {target} din {spaceport}. Nu rata această șansă."
+   },
+   "LY" : {
+      "description" : "",
+      "message" : "al"
+   },
+   "OK_AGREED" : {
+      "description" : "",
+      "message" : "Ok, de acord."
+   },
+   "RETURN_HERE_ON_THE_COMPLETION_OF_THE_CONTRACT_AND_YOU_WILL_BE_PAID" : {
+      "description" : "",
+      "message" : "Întoarceți-vă aici la completarea contractului și veți fi plătit."
+   },
+   "SHIP" : {
+      "description" : "",
+      "message" : "Navă:"
+   },
+   "SHIP_ID" : {
+      "description" : "",
+      "message" : "ID Navă:"
+   },
+   "SPACEPORT" : {
+      "description" : "",
+      "message" : "Port spațial:"
+   },
+   "SYSTEM" : {
+      "description" : "",
+      "message" : "Sistem:"
+   },
+   "TARGET_NAME" : {
+      "description" : "",
+      "message" : "Numele țintei:"
+   },
+   "TARGET_WILL_BE_LEAVING_SPACEPORT_AT" : {
+      "description" : "",
+      "message" : "Ținta va pleca din portul spațial la:"
+   },
+   "TITLE_0" : {
+      "description" : "",
+      "message" : "Amiral"
+   },
+   "TITLE_1" : {
+      "description" : "",
+      "message" : "Ambasador"
+   },
+   "TITLE_10" : {
+      "description" : "",
+      "message" : "Aspirant"
+   },
+   "TITLE_11" : {
+      "description" : "",
+      "message" : "General"
+   },
+   "TITLE_12" : {
+      "description" : "",
+      "message" : "Judecător"
+   },
+   "TITLE_13" : {
+      "description" : "",
+      "message" : "Avocat"
+   },
+   "TITLE_14" : {
+      "description" : "",
+      "message" : "Locotenent"
+   },
+   "TITLE_15" : {
+      "description" : "",
+      "message" : "Mareșal"
+   },
+   "TITLE_16" : {
+      "description" : "",
+      "message" : "Comerciant"
+   },
+   "TITLE_17" : {
+      "description" : "",
+      "message" : "Ofițer"
+   },
+   "TITLE_18" : {
+      "description" : "",
+      "message" : "Ofițer"
+   },
+   "TITLE_19" : {
+      "description" : "",
+      "message" : "Profesor"
+   },
+   "TITLE_2" : {
+      "description" : "",
+      "message" : "Brigadier"
+   },
+   "TITLE_20" : {
+      "description" : "",
+      "message" : "Procuror"
+   },
+   "TITLE_21" : {
+      "description" : "",
+      "message" : "Ofițer"
+   },
+   "TITLE_22" : {
+      "description" : "",
+      "message" : "Marinar"
+   },
+   "TITLE_23" : {
+      "description" : "",
+      "message" : "Senator"
+   },
+   "TITLE_24" : {
+      "description" : "",
+      "message" : "Sergent"
+   },
+   "TITLE_3" : {
+      "description" : "",
+      "message" : "Cadet"
+   },
+   "TITLE_4" : {
+      "description" : "",
+      "message" : "Căpitan"
+   },
+   "TITLE_5" : {
+      "description" : "",
+      "message" : "Cardinal"
+   },
+   "TITLE_6" : {
+      "description" : "",
+      "message" : "Colonel"
+   },
+   "TITLE_7" : {
+      "description" : "",
+      "message" : "Comandant"
+   },
+   "TITLE_8" : {
+      "description" : "",
+      "message" : "Comodor"
+   },
+   "TITLE_9" : {
+      "description" : "",
+      "message" : "Caporal"
+   },
+   "WHERE_CAN_I_FIND_X" : {
+      "description" : "",
+      "message" : "Unde pot găsi {target}?"
+   },
+   "X_WILL_BE_LEAVING" : {
+      "description" : "",
+      "message" : "{target} va pleca din {spaceport} din sistemul {system} ({sectorX}, {sectorY}, {sectorZ}), distanța {dist} ly, pe {date}. Nava este {shipname} și are numărul de înmatriculare {shipregid}."
+   }
+}
